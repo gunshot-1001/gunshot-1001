@@ -53,9 +53,8 @@
 
 ###
 <h4 align="centre"> 💮 श्रीमंत दगडूशेठ हलवाई प्रसन्न 💮 </h4>
-
 <div align="center">
-  <img height="130" src="https://capsule-render.vercel.app/api?type=waving&color=FF6F00&height=120&section=footer" />
+  <img height="200" src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=180&section=header&text=💮 श्रीमंत दगडूशेठ हलवाई प्रसन्न 💮&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"  />
 </div>
 
 ###
