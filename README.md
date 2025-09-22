@@ -1,23 +1,9 @@
-<div align="center">
-  <img height="200" src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=180&section=header&text=Hello&Visitor!!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"  />
-</div>
+<h2 align="left">Hey Durvank Belitkar this side 👋🏼:</h2>
 
 ###
 
-<h2 align="left">Hi! I'm Soham Rupaye, a Full stack developer 👋🏼:</h2>
+<h4 align="left">| Project Manager and Vibe Coder | Innovation Hub 💡| MIT - WPU 2026 Grad Student |</h4>
 
-###
-
-<h4 align="left">Usually project ideas pop up in my mind, I will complete them. Feel free to contact me via Discord/Linkedin.<br><br>>> I am working on my webpage. (priority)<br>>> Building visually stunning apps in react native.<br>>> Developing and deploying APIs for an organization <br>>> Making webistes and landing pages for my college.</h4>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=QuirkyDevil&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=QuirkyDevil&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -66,9 +52,10 @@
 </picture>
 
 ###
+<h4 align="centre"> 💮 श्रीमंत दगडूशेठ हलवाई प्रसन्न 💮 </h4>
 
 <div align="center">
-  <img height="130" src="https://capsule-render.vercel.app/api?type=waving&color=282A36&height=120&section=footer"  />
+  <img height="130" src="https://capsule-render.vercel.app/api?type=waving&color=FF6F00&height=120&section=footer" />
 </div>
 
 ###
